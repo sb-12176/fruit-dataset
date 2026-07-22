@@ -3,9 +3,11 @@ train: C:\fruitDataset\images\train
 val: C:\fruitDataset\images\val
 test: C:\fruitDataset\images\test
 names:
-  0: blueberry
-  1: blueberry-halfripe
-  2: blueberry-unripe
-  3: redapple
-  4: greenapple
-  5: five
+  0: 0
+  1: 1
+  2: 2
+  3: blueberry
+  4: blueberry-halfripe
+  5: blueberry-unripe
+  6: redapple
+  7: greenapple
