@@ -1,0 +1,15 @@
+{
+"fruits":["blueberry", "blueberry-halfripe", "blueberry-unripe", "redapple", "greenapple"]
+}
+
+{
+"blueberry":{"name":"blueberry", "firmness":0, "size":0}
+}
+
+{
+"blueberry-halfripe":{"name":"blueberry-halfripe", "firmness":0, "size":0}
+}
+
+{
+"blueberry-unripe":{"name":"blueberry-unripe", "firmness":0, "size":0}
+}
