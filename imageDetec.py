@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import cv2
 
 # 1. Load your trained or pre-trained YOLO model
-model = YOLO("C:\\fruitDataset\\runs\\detect\\train-3\\weights\\best.pt")  # Replace with your custom "best.pt" path if needed
+model = YOLO("C:\\fruitDataset\\runs\\detect\\train-4\\weights\\best.pt")  # Replace with your custom "best.pt" path if needed
 
 # 2. Run inference on an image
 results = model("C:\\fruitDataset\\blueberryTEST.png")
