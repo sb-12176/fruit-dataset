@@ -5,7 +5,7 @@ import cv2
 model = YOLO("C:\\fruitDataset\\runs\\detect\\train-4\\weights\\best.pt")  # Replace with your custom "best.pt" path if needed
 
 # 2. Run inference on an image
-results = model("C:\\fruitDataset\\blueberryTEST.png")
+results = model("C:\\fruitDataset\\blueberryTEST2.png")
 
 # 3. Get the annotated image array (returns a BGR numpy array)
 annotated_image = results[0].plot()
